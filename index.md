@@ -13,6 +13,12 @@ Feel free to follow me in my science journey on [twitter](https://twitter.com/ca
 
 ### Research Projects
 
+**ALLELE-SPECIFIC SPLICING EDITING FOR HUNTINGTON’S DISEASE**
+
+_Lareau Lab University of California, Berkeley_
+
+My work with the Innovative Genomics Institute here at UC Berkeley is exploring the use of single-nucleotide variations (SNVs) to anchor base editors that induce splicing changes. We use machine learning to evaluate splicing changes in our targets computationally. Using this strategy, we can target disease that are most resistant to CRISPR editing: diseases caused by repeat expansion mutations.
+
 **MUTUALLY EXCLUSIVE SPLICING ANALYSIS (MESA) (WINTER 2019 – SPRING 2020)**
 
 _Brooks Lab University of California, Santa Cruz_
