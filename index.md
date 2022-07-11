@@ -6,7 +6,7 @@ Hello world! My name is Carmelle. I am PhD student studying RNA Splicing in Comp
 
 ### About Me
 
-I grew up in the small island-province of Cebu, Philippines. When I was fifteen years-old I relocated to San Jose, California when I migrated to the United States. I attended college at the University of California Santa Cruz where I earned my degree in Biomolecular Engineering & Bioinformatics. When I'm not doing science, I enjoy beautiful hikes, [running](https://www.strava.com/athletes/99557318), enjoying good food with friends, taking care of my plants or exploring a new artsy hobby!
+I grew up in the small island-province of Cebu, Philippines. When I was fifteen years-old I relocated to San Jose, California when I migrated to the United States. I attended college at the University of California Santa Cruz where I earned my bachelor's degree in Biomolecular Engineering & Bioinformatics. When I'm not doing science, I enjoy beautiful hikes, [running](https://www.strava.com/athletes/99557318), enjoying good food with friends, taking care of my plants or exploring a new artsy hobby!
 
 Feel free to follow me in my science journey on [twitter](https://twitter.com/carmeile) or contact me at carmelle@berkeley.edu :-)
 
