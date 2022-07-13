@@ -1,6 +1,6 @@
 ## Welcome to my page!
 
-Hello world! My name is Carmelle. I am PhD student in Computational Biology at the University of California Berkeley where I study RNA Splicing at the [Lareau lab](http://www.lareaulab.org/)
+Hello world! My name is Carmelle. I am PhD student in Computational Biology at the University of California Berkeley where I study RNA Splicing at the [Lareau lab](http://www.lareaulab.org/).
 ![image](https://user-images.githubusercontent.com/67977500/178340607-ba324fe7-6572-4604-9590-0bab227d1774.png)
 
 
