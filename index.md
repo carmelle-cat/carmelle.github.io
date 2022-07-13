@@ -1,12 +1,12 @@
 ## Welcome to my page!
 
-Hello world! My name is Carmelle. I am PhD student studying RNA Splicing in Computational Biology at the University of California Berkeley. 
+Hello world! My name is Carmelle. I am PhD student in Computational Biology at the University of California Berkeley where I study RNA Splicing at the [Lareau lab](http://www.lareaulab.org/)
 ![image](https://user-images.githubusercontent.com/67977500/178340607-ba324fe7-6572-4604-9590-0bab227d1774.png)
 
 
 ### About Me
 
-I grew up in the small island-province of Cebu, Philippines. When I was fifteen years-old I relocated to San Jose, California when I migrated to the United States. I attended college at the University of California Santa Cruz where I earned my bachelor's degree in Biomolecular Engineering & Bioinformatics. When I'm not doing science, I enjoy beautiful hikes, [running](https://www.strava.com/athletes/99557318), enjoying good food with friends, taking care of my plants or exploring a new artsy hobby!
+I was born and raised in the small island-province of Cebu, Philippines. When I was fifteen years-old I relocated to San Jose, California when I migrated to the United States. I attended college at the University of California Santa Cruz where I earned my bachelor's degree in Biomolecular Engineering & Bioinformatics. When I'm not doing science, I enjoy going on beautiful hikes, [running](https://www.strava.com/athletes/99557318), eating good food with friends, discovering new music, taking care of my plants or exploring a new artsy hobby!
 
 Feel free to follow me in my science journey on [twitter](https://twitter.com/carmeile) or contact me at carmelle@berkeley.edu :-)
 
